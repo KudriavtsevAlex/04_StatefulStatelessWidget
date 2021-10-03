@@ -1,4 +1,4 @@
-#Tue Sep 28 00:56:06 MSK 2021
-base.0=C\:\\Dev\\04_StatefulStatelessWidget\\stateful_stateless_widget\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Sun Oct 03 19:17:05 MSK 2021
+base.0=/Users/aleksandrkudravcev/development/statless_statefull_widget/04_StatefulStatelessWidget/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
